@@ -1,4 +1,4 @@
-//![logo](https://github.com/xRaksh/xRaksh/blob/main/banner.png)
+/*![logo](https://github.com/xRaksh/xRaksh/blob/main/banner.png)*/
 
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate Web developer from India</h3>

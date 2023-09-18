@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xraksh&label=Profile%20views&color=0e75b6&style=flat" alt="xraksh" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce store](https://xraksh.github.io/soon/)
+- 🔭 I’m currently Searching for a new opportunity in web development
 
 - 🌱 I’m currently learning **react JS and Backend**
 
